@@ -29,12 +29,6 @@
     font-family: Roboto;
     background-color: #ff7500;
 }
-.orange-line {
-    width: 80px;
-    height: 3px;
-    background: #ff7500;
-}
-
 .hero {
     width: 1440px;
     height: 488px;
@@ -42,9 +36,119 @@
     background-color: #252420;
     color: white;
 }
-.hero-head{
-    color: #252420;
+.hero-box{
+    width: 387px;
 }
-.hero-paragraph {
-    color: #252420;
+.orange-line {
+    width: 80px;
+    height: 3px;
+    background: #ff7500;
+}
+.hero-head{
+    font-size: 40px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    font-family: Roboto Condensed;
+}
+.hero-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    font-family: Roboto;
+}
+.hero-pic{
+    width: 510px;
+    height: 510px;
+    top: 137px;
+    left: 760px;
+    image-orientation: flip;
+}
+.feature-head{
+    width: 435px;
+    font-size: 72px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    font-family: Roboto Condensed;
+}
+.feature-list{
+    list-style: none;
+}
+.feature-item{
+    width: 340px;
+}
+.feature-h3{
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    font-family: Roboto Condensed;
+}
+.feature-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    font-family: Roboto;
+}
+.feature-icon{
+    width: 56px;
+    height: 56px;
+}
+.site-promo{
+    width: 1100px;
+    height: 419px;
+    background-color: #252420;
+}
+.promo-box{
+    width: 440px;
+}
+.promo-box h2{
+    color: white;
+    font-size: 40px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    font-family: Roboto Condensed;
+}
+.promo-box p{
+    color: white;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    font-family: Roboto;
+}
+.bold-text{
+    color: #ff7500;
+}
+.promo-pic{
+    width: 440px;
+    height: 440px;
+}
+.site-footer{
+    width: 1140px;
+    height: 507px;
+    background-color: #f8f8f8;
+}
+.footer-logo{
+    width: 1100px;
+}
+.footer-logo ul{
+    list-style: none;
+}
+.footer-hr{
+    width: 1100px;
+    height: 2px;
+    background-color: #252420;
+}
+.footer-links{
+    width: 1100px;
+}
+.footer-link{
+    list-style: none;
+    width: 224px;
+}
+.footer-links a{
+    text-decoration-line: none;
+    color: black;
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 0px;
+    font-family: Roboto;
 }
