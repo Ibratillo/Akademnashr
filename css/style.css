@@ -73,6 +73,11 @@
 .feature-list{
     list-style: none;
 }
+.feature-icon-back{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255,117,0,0.2);
+}
 .feature-item{
     width: 340px;
 }
